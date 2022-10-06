@@ -1,10 +1,10 @@
 # aveersweb_feasiblity
 
-A new Flutter project.
+A project to analyze the feasiblity of Aveers website in flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter web application.
 
 A few resources to get you started if this is your first Flutter project:
 
