@@ -1,4 +1,4 @@
-# aveersweb_feasiblity
+# Aveers website - Flutter feasiblity
 
 A project to analyze the feasiblity of Aveers website in flutter.
 
